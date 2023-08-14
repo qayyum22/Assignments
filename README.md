@@ -8,7 +8,7 @@ Full (MERN) Stack Open source Cohort Assignments
 
 #### Support
 
-Find the Content Useful? [You can always buy me a coffee][(https://www.buymeacoffee.com/johnsmilga](https://github.com/qayyum22/myprojects))
+[Find the Content Useful?](https://github.com/qayyum22/myprojects)
 
 #### Tutorial Video
 
