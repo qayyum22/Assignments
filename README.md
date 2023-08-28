@@ -2,7 +2,7 @@
 Full (MERN) Stack Open source Cohort Assignments
 
 
-<p align="Left"><img align="center" alt="Coding" src="https://media.giphy.com/media/xUySTOigOUHucl3rfW/giphy.gif"></p>
+<p align="Left"><img align="center" alt="Coding" src="https://static.javatpoint.com/blog/images/mern-stack.png"></p>
 <p  align="Left"><a href="week1#readme"><b> Week 1. Assignments</b></a></p>
 <p  align="Left"><a href="week2#readme"><b> Week 2. Assignments</b></a></p>
 <p  align="Left"><a href="week3#readme"><b> Week 3. Assignments</b></a></p>
